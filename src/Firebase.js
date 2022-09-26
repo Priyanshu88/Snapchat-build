@@ -9,13 +9,7 @@ import { getStorage } from "firebase/storage";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: 'AIzaSyBli9MGPn2J6go7CQmbmg1qJxq8vOCQjjc',
-  authDomain: 'snapchat-clone-e13b4.firebaseapp.com',
-  projectId: 'snapchat-clone-e13b4',
-  storageBucket: 'snapchat-clone-e13b4.appspot.com',
-  messagingSenderId: '521217682983',
-  appId: '1:521217682983:web:206b2692ee0684d39f2802',
-  measurementId: 'G-VFY5405RYD',
+  /// Config
 }
 
 const firebaseApp = initializeApp(firebaseConfig);
