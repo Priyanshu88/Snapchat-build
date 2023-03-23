@@ -188,7 +188,7 @@ npm install @mui/material @emotion/react @emotion/styled
 
 Install dependencies
 
-<a href="https://github.com/Priyanshu88/Gmail-WebApp/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/Priyanshu88/Snapchat-build/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
