@@ -253,7 +253,7 @@ firebase deploy
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
-Project Link: [https://github.com/Priyanshu88/Gmail-WebApp.git](https://github.com/Priyanshu88/Gmail-WebApp.git)
+Project Link: [https://github.com/Priyanshu88/Snapchat-build.git](https://github.com/Priyanshu88/Snapchat-build.git)
 
 <hr />
 <br />
