@@ -10,7 +10,7 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 
 <!-- Badges -->
 
-<a href="https://clo-c911f.web.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://snapchat-clone-e13b4.web.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/Priyanshu88/Snapchat-build.svg)
 ![](https://img.shields.io/github/stars/Priyanshu88/Snapchat-build.svg)
@@ -18,7 +18,7 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 ![](https://img.shields.io/github/last-commit/Priyanshu88/Snapchat-build)
 
 <h4>
-    <a href="https://clo-c911f.web.app/">View Demo</a>
+    <a href="https://snapchat-clone-e13b4.web.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/Priyanshu88/Snapchat-build/blob/master/README.md">Documentation</a>
   <span> · </span>
@@ -218,7 +218,7 @@ First, run the development server:
 npm run start
 ```
 
-This is a [Reac.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
+This is a [React.js](https://react.dev/) project bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
