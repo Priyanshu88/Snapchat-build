@@ -126,7 +126,7 @@ https://user-images.githubusercontent.com/86107841/227703546-63c06d4b-5bd5-4867-
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/225980120-628b73b6-5c90-48d7-bd5d-92858e781710.png" alt="" width="30" height="30" /></a>
         </td>
          <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/86107841/225980482-cfd6e246-6684-4e3a-a067-a59875d6c6a7.jpg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
         </td>                                          
     </tr>
 </table>
@@ -176,6 +176,8 @@ Install dependencies
 
 ### :test_tube: Install Firebase and Material UI
 
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 #### Install Firebase
 
 Install Firebase and copy the config of your project and setup locally.
@@ -197,6 +199,8 @@ Install dependencies
 <!-- Run Locally -->
 
 ### :running: Run Locally
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 Clone the project
 
@@ -237,6 +241,8 @@ This project uses [`react-webcam`](https://github.com/mozmorris/react-webcam) fo
 
 ### :triangular_flag_on_post: Deployment
 
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 To deploy this project run
 
 ##### Commands
@@ -254,6 +260,8 @@ firebase deploy
 ```
 
 ## :handshake: Contact
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
