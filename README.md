@@ -73,8 +73,7 @@ https://user-images.githubusercontent.com/86107841/227703546-63c06d4b-5bd5-4867-
 - Webcam Capture and Preview Page
 
 <div align="center">
-<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703662-841983d0-9a1b-4c7f-901b-066502fc5b93.png
-' alt='image' width='800'/></a>
+<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703662-841983d0-9a1b-4c7f-901b-066502fc5b93.png' alt='image' width='800'/></a>
 </div>
 
 <br />
@@ -82,8 +81,7 @@ https://user-images.githubusercontent.com/86107841/227703546-63c06d4b-5bd5-4867-
 - Chat and Chat View Page
 
 <div align="center">
-<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703581-0ae3638c-2084-49dd-b0d0-84e1d7b24b8c.png
-' alt='image' width='800'/></a>
+<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703581-0ae3638c-2084-49dd-b0d0-84e1d7b24b8c.png' alt='image' width='800'/></a>
 </div>
 
 ## <a href="https://snapchat-clone-e13b4.web.app/" target="_blank">LIVE DEMO 💥</a>
