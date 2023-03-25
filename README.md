@@ -55,10 +55,14 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 
 - Application Home page & Demo
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='' alt='image'/></a>
-</div>
+</div> -->
 
+
+
+
+https://user-images.githubusercontent.com/86107841/227703546-63c06d4b-5bd5-4867-804b-8772216511ab.mp4
 
 
 
@@ -69,7 +73,8 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 - Webcam Capture and Preview Page
 
 <div align="center">
-<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703662-841983d0-9a1b-4c7f-901b-066502fc5b93.png
+' alt='image' width='800'/></a>
 </div>
 
 <br />
@@ -77,7 +82,8 @@ A website like Snapchat which is created using ReactJS, the React-Router is impl
 - Chat and Chat View Page
 
 <div align="center">
-<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://snapchat-clone-e13b4.web.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/227703581-0ae3638c-2084-49dd-b0d0-84e1d7b24b8c.png
+' alt='image' width='800'/></a>
 </div>
 
 ## <a href="https://snapchat-clone-e13b4.web.app/" target="_blank">LIVE DEMO 💥</a>
