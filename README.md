@@ -114,13 +114,13 @@ https://user-images.githubusercontent.com/86107841/227703546-63c06d4b-5bd5-4867-
 <table>
     <tr>
         <td>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1" alt="" width="30" height="30" /></a>
         </td>
                         <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/225979374-f10f15a3-db41-4eaa-812d-8a6509049424.png" alt="Google" width="30" height="30" /></a>
         </td>
                         <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/86107841/225979643-e8b42859-441f-4d5b-a2f0-f9f1a3b2af0d.jpg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://www.blog.plint-sites.nl/wordpress/wp-content/uploads/2016/11/redux-logo-768x694.png" alt="" width="30" height="30" /></a>
         </td>
           <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/225980120-628b73b6-5c90-48d7-bd5d-92858e781710.png" alt="" width="30" height="30" /></a>
